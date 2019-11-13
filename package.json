@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "bot-framework": "github:acrylic-style/bot-framework",
+    "discord.js": "^11.5.1",
+    "emojilib": "^2.4.0",
+    "eslint-config-recommended": "^4.0.0",
+    "logger.js": "github:acrylic-style/logger.js",
+    "minimist": "^1.2.0",
+    "object-assign-deep": "^0.4.0",
+    "simple-git": "^1.126.0",
+    "string-format": "^2.0.0",
+    "yaml": "^1.7.2"
+  },
+  "name": "terraria-bot",
+  "description": "users starts terraria instance from bot, and stops automatically when unused for > 30 minutes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acrylic-style/terraria-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acrylic-style/terraria-bot/issues"
+  },
+  "homepage": "https://github.com/acrylic-style/terraria-bot#readme"
+}

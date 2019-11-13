@@ -1,0 +1,7 @@
+prefix: "t."
+token: "" # you should kept this private
+language: "en"
+allowedUsers:
+  - "575673035743559701"
+owners:
+  - "575673035743559701"
