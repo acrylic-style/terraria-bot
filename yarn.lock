@@ -197,9 +197,10 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
   integrity sha1-ibTRmasr7kneFk6gK4nORi1xt2c=
 
-bot-framework@acrylic-style/bot-framework:
-  version "1.0.1"
-  resolved "https://codeload.github.com/acrylic-style/bot-framework/tar.gz/b9b49c1e231cf1036badc8eb9de3233b2d1c24de"
+"bot-framework@github:acrylic-style/bot-framework":
+  version "2.0.0"
+  uid "50fd185c246a2089248fa3643f0662bd0ad33cf1"
+  resolved "https://codeload.github.com/acrylic-style/bot-framework/tar.gz/50fd185c246a2089248fa3643f0662bd0ad33cf1"
   dependencies:
     discord.js "^11.4.2"
     emojilib "^2.4.0"
@@ -1009,8 +1010,9 @@ lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
-logger.js@acrylic-style/logger.js:
+"logger.js@github:acrylic-style/logger.js":
   version "0.0.1"
+  uid "7d13a0c2d74cf1569b09a7ff4a1612fab3d83379"
   resolved "https://codeload.github.com/acrylic-style/logger.js/tar.gz/7d13a0c2d74cf1569b09a7ff4a1612fab3d83379"
   dependencies:
     chalk "^2.4.2"
@@ -1051,10 +1053,10 @@ minimist@0.0.8:
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
   integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
 
-minimist@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
-  integrity sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ=
+minimist@^1.2.0, minimist@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.2.tgz#b00a00230a1108c48c169e69a291aafda3aacd63"
+  integrity sha512-rIqbOrKb8GJmx/5bc2M0QchhUouMXSpd1RTclXsB41JdL+VtnojfaJR+h7F9k18/4kHUsBFgk80Uk+q569vjPA==
 
 mkdirp@^0.5.1:
   version "0.5.1"
